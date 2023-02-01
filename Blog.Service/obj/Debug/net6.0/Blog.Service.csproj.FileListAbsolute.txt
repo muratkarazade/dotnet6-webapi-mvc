@@ -10,3 +10,10 @@ C:\Users\levfi\OneDrive\Masaüstü\Backend\BlogProject\Blog.Service\obj\Debug\ne
 C:\Users\levfi\OneDrive\Masaüstü\Backend\BlogProject\Blog.Service\obj\Debug\net6.0\refint\Blog.Service.dll
 C:\Users\levfi\OneDrive\Masaüstü\Backend\BlogProject\Blog.Service\obj\Debug\net6.0\Blog.Service.pdb
 C:\Users\levfi\OneDrive\Masaüstü\Backend\BlogProject\Blog.Service\obj\Debug\net6.0\ref\Blog.Service.dll
+C:\Users\levfi\OneDrive\Masaüstü\Backend\BlogProject\Blog.Service\bin\Debug\net6.0\Blog.Core.dll
+C:\Users\levfi\OneDrive\Masaüstü\Backend\BlogProject\Blog.Service\bin\Debug\net6.0\Blog.Data.dll
+C:\Users\levfi\OneDrive\Masaüstü\Backend\BlogProject\Blog.Service\bin\Debug\net6.0\Blog.Entity.dll
+C:\Users\levfi\OneDrive\Masaüstü\Backend\BlogProject\Blog.Service\bin\Debug\net6.0\Blog.Data.pdb
+C:\Users\levfi\OneDrive\Masaüstü\Backend\BlogProject\Blog.Service\bin\Debug\net6.0\Blog.Entity.pdb
+C:\Users\levfi\OneDrive\Masaüstü\Backend\BlogProject\Blog.Service\bin\Debug\net6.0\Blog.Core.pdb
+C:\Users\levfi\OneDrive\Masaüstü\Backend\BlogProject\Blog.Service\obj\Debug\net6.0\Blog.Service.csproj.CopyComplete

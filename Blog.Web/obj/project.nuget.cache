@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "p6z6B5aQNA2SW07beGifHroEkdrqeiHHygP/OBPzcLuWfQvXL4d0JGiWOvXPjXYV9ng7CeuJERMPtpyXLNoS8Q==",
+  "dgSpecHash": "AaFzDR+1kw4STjvUaU9hqyTUCvTFFQ+Jq7ZuJ9FLzgZba/onknEF3UTztCDTOraXZ3oCcQppr7WvnHPzfl+T0A==",
   "success": true,
   "projectFilePath": "C:\\Users\\levfi\\OneDrive\\Masaüstü\\Backend\\BlogProject\\Blog.Web\\Blog.Web.csproj",
   "expectedPackageFiles": [
@@ -17,7 +17,6 @@
     "C:\\Users\\levfi\\.nuget\\packages\\microsoft.entityframeworkcore.design\\7.0.2\\microsoft.entityframeworkcore.design.7.0.2.nupkg.sha512",
     "C:\\Users\\levfi\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.2\\microsoft.entityframeworkcore.relational.7.0.2.nupkg.sha512",
     "C:\\Users\\levfi\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\7.0.2\\microsoft.entityframeworkcore.sqlserver.7.0.2.nupkg.sha512",
-    "C:\\Users\\levfi\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\7.0.2\\microsoft.entityframeworkcore.tools.7.0.2.nupkg.sha512",
     "C:\\Users\\levfi\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\levfi\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
     "C:\\Users\\levfi\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",

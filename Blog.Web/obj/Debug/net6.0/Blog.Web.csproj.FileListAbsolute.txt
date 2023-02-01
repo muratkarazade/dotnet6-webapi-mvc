@@ -86,3 +86,5 @@ C:\Users\levfi\OneDrive\Masaüstü\Backend\BlogProject\Blog.Web\bin\Debug\net6.0
 C:\Users\levfi\OneDrive\Masaüstü\Backend\BlogProject\Blog.Web\bin\Debug\net6.0\System.Text.Encodings.Web.dll
 C:\Users\levfi\OneDrive\Masaüstü\Backend\BlogProject\Blog.Web\bin\Debug\net6.0\System.Text.Json.dll
 C:\Users\levfi\OneDrive\Masaüstü\Backend\BlogProject\Blog.Web\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\levfi\OneDrive\Masaüstü\Backend\BlogProject\Blog.Web\bin\Debug\net6.0\Blog.Service.dll
+C:\Users\levfi\OneDrive\Masaüstü\Backend\BlogProject\Blog.Web\bin\Debug\net6.0\Blog.Service.pdb
