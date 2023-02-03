@@ -1,5 +1,4 @@
-﻿
-@model List<Article>
+﻿@model List<ArticleDto>
 
 
 @{
@@ -14,5 +13,7 @@
 @foreach (var article in Model)
 {
     <h1>@article.Title</h1> <br/>
-    <h4>@article.Content</h4> <br/> <hr/>
+    <h4>@article.Content</h4> <br/>
+    <h6>@article.CreatedBy</h6>
+    <hr/>
 }
