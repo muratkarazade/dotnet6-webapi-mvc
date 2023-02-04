@@ -25,7 +25,9 @@ namespace Blog.Data.Mappings
                 CreatedBy = "Admin",
                 CreatedDate = DateTime.Now,
                 IsDeleted= false,
-                ViewCount = 15
+                ViewCount = 15,
+                UserId = Guid.Parse("26EBD897-2FCB-43F5-9DF4-1A8E00ABC34A"),
+                
             },new Article
             {
                 Id = Guid.NewGuid(),
@@ -36,7 +38,8 @@ namespace Blog.Data.Mappings
                 CreatedBy = "Admin",
                 CreatedDate = DateTime.Now,
                 IsDeleted = false,
-                ViewCount = 32
+                ViewCount = 32,
+                UserId = Guid.Parse("183153F8-19DA-4873-A14D-E3F113591644")
             }
             
             );
