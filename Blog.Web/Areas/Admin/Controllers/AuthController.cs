@@ -54,5 +54,12 @@ namespace Blog.Web.Areas.Admin.Controllers
             }
 
         }
+        [Authorize]
+        [HttpGet]
+        public async Task<IActionResult> Logout()
+        {
+            await signInManager.SignOutAsync();
+            return RedirectToAction("Index", "Home", new { Area = "" });
+        }
     }
 }
